@@ -20,14 +20,12 @@ body
 #container h1
 {
     font-size: 40px;
-<<<<<<< HEAD
     text-align: center;
 }
 
 #post
 {
     text-align: left;
-=======
 }
 
 #cabecera
@@ -39,5 +37,4 @@ body
     box-shadow: 0px 2px 50px 0px rgba(0,0,0,0.75);
     font-size: 2em;
     
->>>>>>> cabecera
 }
