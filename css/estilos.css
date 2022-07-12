@@ -38,3 +38,11 @@ body
     font-size: 2em;
     
 }
+
+#footer
+{
+ background: #334;
+ text-align: center;
+ color: whitesmoke;
+ padding: 1em;
+}
