@@ -7,4 +7,5 @@ Un blog para fanaticos del espacio, el universo.
 * Opiniones
 * Creado por increible
 * Incluye Ejemplos en windows
+* Disponible para todos
 
